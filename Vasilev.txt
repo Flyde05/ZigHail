@@ -1,3 +1,2 @@
-I am author!
 print("Ya.russkiy")
-# 2023 (c) Me
+2023
